@@ -1,0 +1,16 @@
+obs_year = 1.0
+MONTHS_IN_YEAR = 12
+TRADING_DAYS_IN_YEAR = 262
+DAYS_IN_YEAR = 365
+DAYS_IN_YEAR_FLOAT = 365.25
+WEEKS_IN_YEAR = 52
+gallons_per_barrel = 42
+silence_output = False
+total_profit_str = "Total Profit"
+adj_file = "front_month_ratio.csv" # "front_month_ratio_excel.csv" # "front_month_ratio_computed_dates.csv"
+DATA_DIR = ""
+FX_SYMBOLS = ["CAD", "EUR", "GBP", "AUD", "NZD", "CHF", "JPY", "BRL"]
+equity_selection_str = "EquitySelection"
+cvxb_str = "CvXB"
+hobo_str = "HOBO"
+rf_rate_symbol = "USGG3M" # "US0003M"
